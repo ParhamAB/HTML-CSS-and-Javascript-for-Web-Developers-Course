@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
 
-You can use the [editor on GitHub](https://github.com/ParhamAB/HTML-CSS-and-Javascript-for-Web-Developers-Course/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<title>Responsive Layout</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</head>
+<body>
+<h1>Our Menu</h1>
 
-### Markdown
+  <div class="lap4 tab6 mob12">
+  	<div class="Content-box">
+  		<p class="content-name chicken">Chicken</p>
+  		<p class="content">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+  	</div>
+  </div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <div class="lap4 tab6 mob12">
+  	<div class="Content-box">
+   		<p class="content-name beef">Beef</p>
+   		<p class="content">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+  	</div>
+  </div>
 
-```markdown
-Syntax highlighted code block
+  <div class="lap4 tab6 mob12">
+  	<div class="Content-box">
+  		<p class="content-name sushi">Sushi</p>
+  		<p class="content-sushi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+  	</div>	
+  </div>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ParhamAB/HTML-CSS-and-Javascript-for-Web-Developers-Course/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
