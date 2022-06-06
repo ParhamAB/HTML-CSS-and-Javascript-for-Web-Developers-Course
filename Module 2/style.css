@@ -91,6 +91,14 @@ h1 {
     margin-left: -10px;
     width: 100%;
   }
+  .beef{
+    margin-right: 7.9%;
+    width: 100px;
+  }
+  .chicken{
+    margin-right: 7.9%;
+    width: 100px;
+  }
   .sushi{
     margin-right: -92%;
     width: 100px;
@@ -103,5 +111,17 @@ h1 {
   .mob12 {
   	float: left;
     width: 100%;
+  }
+  .sushi{
+    margin-right: 7.9%;
+    width: 100px;
+  }
+  .beef{
+    margin-right: 7.9%;
+    width: 100px;
+  }
+  .chicken{
+    margin-right: 7.9%;
+    width: 100px;
   }
 }
